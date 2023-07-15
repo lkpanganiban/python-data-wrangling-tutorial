@@ -15,4 +15,13 @@ The following libraries were used to run these exercises.
 - Matplotlib
 
 ## Exercises
-This repository contains the notebooks used for web scraping and data wrangling sessions. This also contains a `Python 101` notebook which provides crash course to the participant about Python as a programming language.
+This repository contains the notebooks used for web scraping and data wrangling sessions. 
+
+### Python 101
+The `Python 101` notebook that provides crash course to the participant about Python as a programming language.
+
+### Web Scraping
+The `Web Scraping` notebook is a tutorial that focuses on the workflow of web scraping using `beautifulsoup4` and `requests` libraries. This targets a `Wikipedia` page to scrape, extract and store the data into a CSV file.
+
+### Data Wrangling
+The `Data Wrangling` notebook provides a workflow in transforming data into various formats and also a way to visualize these data. The main libraries to be used here is `pandas` and `matplotlib`. 
